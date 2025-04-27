@@ -8,6 +8,7 @@ Les articles extraits sont ensuite stockés dans un fichier Excel (XLSX) et affi
 ## Comment exécuter le code 
 
 Il faudra au préalable ajouter une clé API de Groq sur le fichier extraction.py (à la ligne 7 entre les guillemets).
+
 Récupérez votre clé API Groq en suivant le lien https://console.groq.com/keys
 
 Apres avoir télécharger les fichiers, exécuter app.py sur votre terminal avec la commande suivante :
