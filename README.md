@@ -7,11 +7,11 @@ Les articles extraits sont ensuite stockés dans un fichier Excel (XLSX) et affi
 
 ## Comment exécuter le code 
 
-Apres avoir télécharger les fichiers, exécuter appV2.py sur votre terminal avec la commande suivante :
+Apres avoir télécharger les fichiers, exécuter app.py sur votre terminal avec la commande suivante :
 ```
-streamlit run appV2.py
+streamlit run app.py
 ```
 ou si ça ne fonctionne pas, exécutez la commande suivante :
 ```
-python -m streamlit run appV2.py
+python -m streamlit run app.py
 ```
