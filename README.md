@@ -12,7 +12,7 @@ Il faudra au préalable ajouter une clé API de Groq sur le fichier extraction.p
 Récupérez votre clé API Groq en suivant le lien https://console.groq.com/keys
 
 
-Apres avoir télécharger les fichiers, exécuter app.py sur votre terminal avec la commande suivante :
+Apres avoir télécharger les fichiers, exécuter app.py sur votre terminal (dans le chemin d'accès où se trouvent les fichiers) avec la commande suivante :
 ```
 streamlit run app.py
 ```
