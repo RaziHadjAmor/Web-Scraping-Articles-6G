@@ -1,0 +1,5 @@
+xlsxwriter
+pandas
+groq
+requests
+PyPDF2
