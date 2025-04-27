@@ -1,5 +1,10 @@
 xlsxwriter
-pandas
-groq
-requests
+openpyxl
 PyPDF2
+pandas
+matplotlib
+requests
+groq
+streamlit
+wordcloud
+pytest
